@@ -2,6 +2,21 @@
 
 `mintchoco.nvim` is a simple Neovim colorscheme. It offers a clean, visually pleasing palette with both **dark** and **light** variants, designed for comfortable long coding sessions while keeping syntax colors distinct and readable.
 
+<table width="100%">
+  <tr>
+    <th>Dark</th>
+    <th>Light</th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src=".github/mintchoco-dark.png" alt="mintchoco-dark">
+    </td>
+    <td width="50%">
+      <img src=".github/mintchoco-light.png" alt="mintchoco--light">
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Features
